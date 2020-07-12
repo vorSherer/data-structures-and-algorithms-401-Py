@@ -8,6 +8,8 @@ authors = ["vorSherer <tcpma2011@gmail.com>"]
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.4.3"
+pytest-watch = "^4.2.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
