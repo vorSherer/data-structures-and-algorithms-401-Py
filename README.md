@@ -1,7 +1,7 @@
 
 ## 401 content:
 
-[Code Challenge 11 - Queue with Stacks]()
+[Code Challenge 11 - Queue with Stacks](/challenges/11_queue_with_stacks/README.md)
 
 [Code Challenge 12 - FIFO Animal Shelter]()
 
